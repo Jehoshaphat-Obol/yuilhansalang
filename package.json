@@ -39,11 +39,13 @@
 		"autoprefixer": "^10.4.20",
 		"publint": "^0.3.2",
 		"svelte": "^5.0.0",
+		"svelte-confetti": "^2.3.1",
 		"tailwindcss": "^3.4.17",
 		"typescript": "^5.3.2",
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
-		"@lottiefiles/dotlottie-svelte": "^0.4.6"
+		"@lottiefiles/dotlottie-svelte": "^0.4.6",
+		"js-confetti": "^0.12.0"
 	}
 }
