@@ -48,6 +48,8 @@
 	},
 	"dependencies": {
 		"@lottiefiles/dotlottie-svelte": "^0.4.6",
+		"@sveltejs/adapter-static": "^3.0.8",
+		"@sveltejs/adapter-vercel": "^5.6.1",
 		"js-confetti": "^0.12.0"
 	}
 }
