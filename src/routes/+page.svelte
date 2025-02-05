@@ -86,7 +86,7 @@
             >
             <button
                 type="button"
-                onclick={sheSaidNo}
+                onmouseenter={sheSaidNo}
                 class="absolute left-0 no"
                 style="transform: translate({x}px, {y}px) scale({xScale}) rotateZ({rotation}deg);  opacity:{opacity};"
                 >No</button
